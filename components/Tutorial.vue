@@ -20,7 +20,10 @@
       <div class="sidebar-chats">
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Lima Daisan</h4>
@@ -44,7 +47,7 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img src="https://wallpaperaccess.com/full/2213424.jpg" alt="" />
           </div>
           <div class="chat-info">
             <h4>Justin Daisan</h4>
@@ -56,7 +59,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRiYSSOYw728Twp-a4Xr7jY9gDkY5TJ5NlWchUWk3Q&s"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Rimon Daisan</h4>
@@ -68,7 +74,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://i.pinimg.com/236x/7f/7c/35/7f7c35749870fd4be3eadb4e7c681c69.jpg"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Shadin Daisan</h4>
@@ -80,7 +89,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://i.pinimg.com/originals/6d/1e/bf/6d1ebf50b4a2c395dabbd4f8c1670c4b.jpg"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Lamyea Daisan</h4>
@@ -92,7 +104,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6X7NoAI2QgWBL5BTfyfZ74pWj2rrzb7W9e18g8Mk&s"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Sagor Daisan</h4>
@@ -104,7 +119,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://www.whatsappimages.in/wp-content/uploads/2021/06/HD-New-Beautiful-Unique-Profile-Images-Pictures.gif"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Rima Daisan</h4>
@@ -116,7 +134,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://images.unsplash.com/photo-1618641986557-1ecd230959aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cHJvZmlsZXxlbnwwfHwwfHw%3D&w=1000&q=80"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Asik Daisan</h4>
@@ -128,7 +149,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QnonunpA6olrMg2z8kNRMJo9eXxEH9R1gnnetOc&s"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Merajul Daisan</h4>
@@ -140,7 +164,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmlsZXxlbnwwfHwwfHw%3D&w=1000&q=80"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Robin Daisan</h4>
@@ -152,7 +179,7 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img src="https://wallpaperaccess.com/full/2213424.jpg" alt="" />
           </div>
           <div class="chat-info">
             <h4>DJ Khalad Daisan</h4>
@@ -164,7 +191,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://wallpapers.com/images/hd/cool-neon-blue-profile-picture-u9y9ydo971k9mdcf.jpg"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Raihan Daisan</h4>
@@ -176,7 +206,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="http://www.goodmorningimagesdownload.com/wp-content/uploads/2021/05/Fb-Best-Profile-Images-photo-free-download-1-168x300.gif"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Fahim Daisan</h4>
@@ -188,7 +221,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://cdn.statusqueen.com/dpimages/thumbnail/dp_images_8-1279.jpg"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Muntasir Daisan</h4>
@@ -200,7 +236,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://wallpapers.com/images/hd/cool-neon-green-profile-picture-uvhf8r1q7ekwuzwu.jpg"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Sabbir Daisan</h4>
@@ -212,7 +251,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://www.whatsappimages.in/wp-content/uploads/2021/12/Whatsapp-Dp-Profile-Images-pictures-free-hd-download.jpg"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Brad Daisan</h4>
@@ -224,7 +266,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH16npbzuYwb_osX63GFNkAt3GZHvL9IGuLQ&usqp=CAU"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Max Daisan</h4>
@@ -236,7 +281,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGEDAzCBwisPWBVxcmWvAck-0gf-sT12os7A&usqp=CAU"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Mim Daisan</h4>
@@ -248,7 +296,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://www.wishbae.com/wp-content/uploads/2022/01/short-caption-for-profile-picture.jpg"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Sara Daisan</h4>
@@ -260,7 +311,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://swall.teahub.io/photos/small/51-515202_wallpapers-for-facebook-profile-with-quotes-top-whatsapp.jpg"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Khalad khan</h4>
@@ -272,7 +326,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://www.seekpng.com/png/small/26-264659_grim-reaper-clipart-grip-best-profile-picture-for.png"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Rana Rohman</h4>
@@ -284,7 +341,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://blog.media.io/images/images2021/funny-good-tiktok-profile-picture-cheeky-cat.jpg"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Nerob Sheak</h4>
@@ -296,7 +356,10 @@
         </div>
         <div class="sidebar-chat">
           <div class="chat-avatar">
-            <img src="../img/lisa.jpg" alt="" />
+            <img
+              src="https://i0.wp.com/www.followchain.org/wp-content/uploads/2021/09/best-discord-profile-pictures-4.png?resize=256%2C256&ssl=1"
+              alt=""
+            />
           </div>
           <div class="chat-info">
             <h4>Rabbi khan</h4>
